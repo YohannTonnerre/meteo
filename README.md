@@ -1,0 +1,2 @@
+# meteo
+mobile only
